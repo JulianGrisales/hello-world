@@ -17,5 +17,7 @@ Esta actividad hace referencia al uso de dicha herramienta en los ámbitos de:
 2. Uso en enlaces por medio de Markdown, aqu dejo el enlace de mi archivo de HTML en Rawgit [clic aquí](https://rawgit.com/JulianGrisales/hello-world/master/ASIR_LMSGI(1).html)
 
 ## Autoevaluación
-
-
+En la descripción de la primer tarea apecen 3 aspectos para autoevaluarnos, a continuación relaciono el resultado de las misma:
+* Sabes crear repositorios de Gihub y subir archivos? Respesta SI
+* Has creado documentos de ejemplo con diferentes lenguajes de marcas? Rspuesta SI
+* Sabes editar README.md usando Markdown? Respuesta SI
