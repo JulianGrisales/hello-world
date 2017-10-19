@@ -1,1 +1,1 @@
-#Descripción de pasos de la primer actividad
+# Descripción de pasos de la primer actividad
