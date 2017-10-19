@@ -1,6 +1,6 @@
 # Descripción de pasos de la primer actividad
 ## Crear documentos
-En esta sección el objetivo era el de usar un editor de texto cualquiera y poder crear documentos de cualquiera de los siguientes tipos:
+En esta sección el objetivo era el de usar un editor de texto cualquiera y poder crear documentos de cualquiera de los siguientes formatos:
 
 - RTF
 - XML
@@ -19,5 +19,5 @@ Esta actividad hace referencia al uso de dicha herramienta en los ámbitos de:
 ## Autoevaluación
 En la descripción de la primer tarea apecen 3 aspectos para autoevaluarnos, a continuación relaciono el resultado de las misma:
 * Sabes crear repositorios de Gihub y subir archivos? Respesta SI
-* Has creado documentos de ejemplo con diferentes lenguajes de marcas? Rspuesta SI
+* Has creado documentos de ejemplo con diferentes lenguajes de marcas? Respuesta SI
 * Sabes editar README.md usando Markdown? Respuesta SI
